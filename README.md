@@ -56,4 +56,4 @@ Here is the schema and explanation of each variable in the files:
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 ## Analysis Summary
-Analysis summary are available [here](https://medium.com/@RawanAlharbi1/starbucks-offer-analysis-6ed8641779bc)
+Analysis summary is available [here](https://medium.com/@RawanAlharbi1/starbucks-offer-analysis-6ed8641779bc)
